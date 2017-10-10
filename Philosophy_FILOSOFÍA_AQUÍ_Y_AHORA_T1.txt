@@ -1,0 +1,1461 @@
+(Conductor: José Pablo Feinmann) 
+INTRO:
+Este es un programa de filosofía por televisión.
+¿Ustedes se preguntaron por qué estamos aquí?
+Yo existo porque pienso. El hombre piensa.
+Es el lugar en el cual todos los saberes son pensados.
+Descartes es un héroe del pensamiento.
+Es difícil enfrentar las grandes cuestiones.
+Es un libro de Jean Paul Sartre, "Crítica de la razón dialéctica".
+Esta es la historia de la filosofía de Hegel.
+La filosofía es la totalidad de lo real
+porque piensa la totalidad de lo real.
+
+
+@01.¿Por qué hay algo y no más bien nada?
+    .01-1 ¿Por qué un curso de filosofía?
+		Créase o no, este es un programa de filosofía por televisión.
+		Este programa tiene un nombre: "Filosofía aquí y ahora".
+		¿Por qué "aquí y ahora"? Bueno, en principio, digamos, es aquí, es decir, es en la televisión argentina.
+		Esto implica un grado de novedad muy grande. La novedad es lo que surge, inesperado. La novedad es lo que nadie espera.
+		Y, quizás, lo que nadie esperaba es que se hiciera filosofía por televisión.
+
+		Estamos aquí para responder preguntas fundamentales.
+		Las preguntas de la filosofía tienen ese carácter, es decir, son fundamentales
+		porque remiten a las cuestiones esenciales de la condición humana.
+		La primera pregunta que nosotros vamos a formularnos es una pregunta que se formula un filósofo alemán,
+		de nombre Martin Heidegger, en un libro de 1935.
+		La pregunta que hace, que es como para quitarle el sueño a cualquiera
+		Espero que no se lo quite a ustedes, pero, si se lo quita, mejor
+		porque van a sentir en carne viva qué es la filosofía.
+		 -> Digamos, la filosofía es una disciplina que incomoda, que acorrala, que sofoca, que da enormes satisfacciones, pero que requiere también un trabajo intenso.
+		La pregunta que hace Heidegger es: "¿Por qué hay algo y no más bien nada?".
+
+		Es una pregunta central, absoluta, definitiva;
+		es la pregunta de las preguntas
+		porque, en realidad, todos nosotros estamos acá,
+		todos nosotros andamos en este mundo,
+		yo estoy aquí, usted está ahí,
+		pero ¿por qué nos preguntamos esto?
+		¿Por qué hay algo y no más bien nada?
+		Porque bien pudo haber ocurrido que no hubiera nada,
+		cosa que nosotros no podemos ni siquiera imaginar
+		porque no podemos concebir la nada absoluta.
+		Lo que sabemos es que hay algo, está todo esto, está la Tierra,
+		está el cielo, miramos, están las estrellas...
+		y de ahí surgen las preguntas definitivas.
+		¿Saben por qué las preguntas son definitivas?
+		Porque el ser humano...
+		el ser humano es el único que se hace estas preguntas.
+		El ser humano, que es un ser imperfecto
+		en medio de un mundo y un universo perfectos;
+		que es un ser finito
+		en medio de la temporalidad infinita del universo;
+		que es un ser carenciado en medio de la abundancia
+		que lo rodea, se siente, a veces, muy pequeño ante tanta grandeza.
+		Al sentirse así quizás afrontar ese sentimiento
+		es la muestra más grande de su grandeza porque, es cierto, Hegel lo decía,
+		la Tierra es un cascote que meramente gira alrededor del sol
+		y eso le quita o le entrega su pequeñez ante la inmensidad del universo.
+		"Pero dice Hegel en este cascote, que es la Tierra;
+		en este cascote, que meramente gira alrededor del sol, hay un ser metafísico
+		que se pregunta por el sentido del universo".
+		Es decir, ese ser metafísico es el hombre.
+		El hombre está en un cascote, el hombre es un ser pequeño, finito, mortal, lleno de angustia, lleno de miedo, destructivo, autodestructivo, pero tiene la grandeza
+		de saber que muere y de seguir viviendo. Tiene la grandeza, además, de preguntarse por todo esto, por la totalidad.
+		La totalidad es todo lo que hay y a la pregunta por todo lo que hay la formula aquí el hombre, el ser humano. 
+		Se pregunta por qué hay algo y no más bien nada. Esa pregunta hace su grandeza y esa pregunta también lo llena angustia
+		porque esa pregunta, en efecto, quizás no tenga respuesta. 
+		Este ser metafísico que se pregunta por el sentido del universo quizás no llegue nunca a obtener esa respuesta.
+		  -> No sé si ustedes recuerdan la escena de una película de Woody Allen en la que Woody Allen chiquitito no quería seguir yendo al colegio
+		  porque más o menos decía que nunca iban a poder enseñarle todo lo que él necesitaba saber porque el universo estaba en expansión.
+		  Y, claro, si el universo está en constante expansión, nunca vamos a poder saber todo lo que tenemos que saber porque nunca vamos a poder alcanzar la expansión del universo.
+		  Woody Allen, en este sentido, es un filósofo. Hace filosofía a su modo, hace filosofía desde las películas, desde el espectáculo.
+		  -> Hay una frase que dice Einstein, muy famosa, que dice así:
+		  "Dios no juega a los dados con el universo". Y Woody Allen dice: "Sí, Dios no juega a los dados, juega a las escondidas".
+
+		Es decir, la frase tiene una dramaticidad muy grande, que el cinematógrafo sueco que acaba de morir, Ingmar Bergman, interpretó como el silencio de Dios.
+		Cuando Woody Allen dice: "Dios no juega a los dados con el universo, juega a las escondidas", lo que está diciendo es que Dios está pavorosamente ausente
+		en los terribles dolores que aquejan a los hombres.
+	.01-2 ¿Por qué "filosofía aquí y ahora"?
+		Yo les voy a decir por qué hay filosofía, por qué hay todo lo que hay, por qué hay filosofía, por qué hay arte,
+		por qué hay música, por qué hay pintura, por qué hay todas las expresiones a través de las cuales el hombre intenta inmortalizarse, trascenderse a sí mismo.
+		Todos esos intentos existen porque el hombre es un ser finito, porque el hombre muere.
+		Cuando digo "el hombre", digo "la mujer" también, lo que pasa es que no hemos encontrado otra manera, tendríamos que hacer una revolución
+		y, en lugar de "hombre", decir "mujer", pero estaríamos más o menos en lo mismo. 
+		El hombre es un ser finito. Sus días están contados y él tiene, sin embargo, hambre de inmortalidad, nadie quiere morir.
+		Digamos, Shakespeare hubiera entregado "Hamlet", "Macbeth", "Otelo" si le hubieran garantizado dos años más de vida.
+
+		El hombre tiene pavor a la muerte y, sin embargo, sabiendo que es un ser finito, se pregunta por la finitud, la afronta, no la niega.
+		Muchos la niegan. La droga, el sexismo son montones de ceremonias para ocultar el hecho de saber que morimos.
+		En cambio, la filosofía pone este hecho por delante.
+		Bueno, el hombre es un ser finito. El hombre es un ser que es finito y, porque es finito, es un ser que se angustia.
+		Como el hombre se angustia, se angustia porque muere. Cuando la angustia le revela al hombre que su destino es la nada,
+		le aparece la idea de la nada y la idea de la nada lo lleva a la idea de que él va a ser nada durante mucho mucho tiempo.
+
+		Cuando yo digo que la grandeza del hombre reside en que sabe que muere y, sin embargo, sigue viviendo 
+		Esto está en la filosofía, pero también está en otras expresiones.
+		No solamente la filosofía plantea estas cosas. Las plantean las novelas, las plantea la pintura, las plantea la música Toda partitura termina y, cuando termina,
+		sentimos la angustia de aquello que termina. 
+		Y hay libros... Hay libros, por supuesto, hay montones de libros escritos sobre esto. 
+		Los libros de filosofía se escriben para responder a cuestiones, a veces, muy estrictamente filosóficas, pero, en el fondo de todos ellos,
+		está el intento del hombre por pensar su situación en este mundo.
+		Por eso, esto se llama "Filosofía aquí y ahora".
+
+		Aquí es donde hacemos filosofía;
+		no estamos en la Sorbona, no estamos en Friburgo,
+		no estamos en la Academia Norteamericana,
+		estamos en la Argentina, hacemos filosofía aquí.
+		Vamos a hacer filosofía como argentinos inevitablemente
+		porque estamos situados.
+		Nuestro pensamiento es un pensamiento situado.
+		Y "ahora" es porque o la hacemos ahora
+		o no sabemos si la vamos a hacer más adelante
+		porque el hombre es un ser abierto a miles de posibilidades,
+		pero, en todas esas posibilidades, está la posibilidad de que muera.
+
+		En consecuencia, sin urgencia, sin desesperación, pero tenemos que considerar que cada minuto es absolutamente precioso;
+		que el ahora tiene una densidad ontológica, es decir, una densidad de ser, en la cual tenemos que participar, en la cual tenemos que comprometernos;
+		que filosofar aquí, en la Argentina, y ahora es necesario porque este país necesita pensar, este país necesita salir de todo aquello que distrae a sus ciudadanos
+		en medio de la pavada y de la estupidez.
+		-> A ver si soy claro en esto, quisiera decirlo claramente. En la televisión se trabaja para estupidizar a las personas, en general, en los medios de comunicación, y esto no pasa en la Argentina, pasa en todo el mundo. El poder, a través de los medios de comunicación, intenta colonizar la subjetividad de los sujetos, o sea, sujetar a los sujetos.
+		Entonces, a ese señor que llega cansado a su casa, que trabajó todo el día y llega y enciende la televisión, la televisión lo atrapa.
+		Lo atrapa, digamos, con el espectáculo infinito de la pavada. La pavada le impide pensar en su situación, le impide pensar que quizás
+		el trabajo que está haciendo no le gusta, que quizás debería cambiar de trabajo, que quizás debería irse de su casa o debería estar más en su casa,
+		que debería amar más a su mujer o amarla menos, o a sus hijos, que debería irse, yo qué sé, al Congo belga, adonde sea, y escapar de todo, pero 
+		O debería, quizás, darse cuenta
+		de que ese aparato que está ahí, idiotizándolo,
+		está para eso, para idiotizarlo.
+		Entonces, el día que toma conciencia crítica de esto,
+		hace algo muy sencillo:
+		lo apaga.
+		Cuando un tipo apaga el televisor porque sabe que, desde ahí,
+		le están quitando la libertad subjetiva
+		que él merece tener,
+		ahí comienza su libertad.
+	.01-3.¿Cuáles son las preguntas de la filosofía?
+		Tenemos que preguntarnos por las preguntas de la filosofía.
+		La filosofía hace preguntas que no todos quieren preguntarse
+		porque hace preguntas que, en realidad,
+		toda la existencia humana--
+		el entero planeta en el que habitamos
+		está organizado para que el hombre no se haga esas preguntas.
+		Por ejemplo, hay preguntas como
+		"¿Por qué es tan injusto el universo en el que vivimos?",
+		"¿Por qué hay hambre?",
+		"¿Por qué hay gente que tiene tanto y gente que tiene tan poco?".
+		Esas son determinadas preguntas, pero son preguntas filosóficas
+		y son preguntas que han nacido de una determinada filosofía,
+		por ejemplo, la filosofía del querido cabezón barbado,
+		Karl Marx, que tenía una cabeza enorme
+		y se le ocurrió preguntar un día:
+		"¿Por qué algunos tienen tanto y otros tan poco?"
+		y escribió un enorme libro, "El Capital",
+		que, bueno, ya entraremos en eso.
+		Ahora, las preguntas de la filosofía, las fundamentales,
+		son del siguiente tipo--
+		Porque, digamos, la hicieron los griegos.
+		Los griegos...
+		se asombraron de estar en medio de tanta maravilla
+		y dijeron: "Todo esto que hay y que yo veo es algo,
+		pero es un algo enorme.
+		Y, si en lugar de todo esto, no hubiera nada,
+		si, en lugar de esto, no hubiera nada--".
+		Entonces, esa pregunta surge del asombro,
+		pero hay otra pregunta fundamental
+		que inaugura la modernidad del capitalismo
+		y es la que hace René Descartes en 1637
+		en uno de los textos más bellos de la historia de la filosofía,
+		"El discurso del método", que cualquiera lo puede comprar
+		y lo puede leer en una hora o dos horas.
+		La pregunta de Descartes no surge del asombro,
+		surge de la duda, y vamos a ver cuánto tiene que ver con nosotros.
+		Un día, este señor, Descartes, simplemente dijo: "Voy a dudar".
+		Bien. Eso fue revolucionario.
+		No hay nada más revolucionario
+		que plantarse un día ante toda la realidad y decir:
+		"Bueno, yo voy a dudar de todo.
+		No me vendan más buzones, no quiero que me convenzan más,
+		yo voy a dudar de todo". ¿De qué dudó Descartes?
+		Descartes dudó de toda la teología medioeval,
+		dudó del aristotélico tomismo, del tomismo aristotélico,
+		dudó de las verdades evangélicas,
+		dudó de la Inquisición,
+		dudó, en última instancia, de Dios.
+		¿Por qué dudó de Dios?
+		Porque Descartes dijo: "Voy a dudar de todo",
+		y, cuando alguien dice que va a dudar de todo,
+		tiene que dudar de Dios.
+		Descartes estaba en 1637,
+		lo habían quemado a Bruno...
+		lo habían quemado a Giordano Bruno...
+		La Inquisición ya había quemado a Giordano Bruno.
+		Descartes estaba preocupado por eso se fue a Holanda,
+		que era un país en el que todavía se podía pensar con mayor libertad,
+		donde vemos que el pensamiento
+		requiere de la libertad para ejercerse.
+		En Holanda, Descartes dijo: "Voy a dudar de todo",
+		y después dijo: "Pero de lo que no puedo dudar es de mi duda".
+		Después dijo: "Si yo dudo, es porque pienso,
+		porque mi duda surge de una actitud del pensamiento".
+		Entonces, dijo:
+		"¿De qué no puedo dudar? De mi pensamiento".
+		Y sacó la célebre fórmula: "Pienso, luego existo",
+		pero me interesa más que nos mantengamos
+		en la cuestión de la duda.
+		Cuando él dice: "Voy a dudar de todo",
+		nosotros, hoy, deberíamos decir también:
+		"Dudemos de todo".
+		¿Qué hizo Descartes?
+		Descartes apagó el televisor de la teología medioeval.
+		Ese era un televisor tremendo,
+		además, si uno no veía esos programas,
+		la Inquisición lo quemaba;
+		si uno no creía en lo que decía ese televisor,
+		la Inquisición lo quemaba, todo lo quemaba,
+		le golpeaban la puerta a uno y a la hoguera.
+		Entonces, Descartes tuvo el enorme coraje
+		de afirmar su propia subjetividad.
+		"Voy a juzgar a partir de mí".
+		Esto es revolucionario en filosofía,
+		esto es lo que la filosofía tiene de contestatario, de revolucionario,
+		de nuevo, esto es lo que le puede cambiar la vida a usted.
+		Descartes dijo: "Yo voy a dudar de todo,
+		no les voy a creer más a todos aquellos
+		que me dicen que tengo que creer en la verdad revelada de Dios,
+		que la Iglesia es la encargada de bajarla a la Tierra
+		y de aplicarla a través de sus grandes inquisidores".
+		Descartes dijo: "No, voy a dudar" y, al hacerlo,
+		apagó entonces ese televisor de la teología medioeval.
+		¿Qué tal si nosotros...
+		qué tal si nosotros un día de estos,
+		un día de estos, digamos, estamos en casa...
+		estamos en casa como estamos habitualmente,
+		sentados ahí, "chuc, chuc, chuc",
+		dale, dale con el zapping, de una cosa a la otra
+		y no nos importa nada?
+		¿Qué vemos? Vemos una catástrofe,
+		vemos el hambre, vemos la tortura,
+		vemos la guerra, vemos a las modelos,
+		vemos todos los traseritos, por decirlo así.
+		En un programa de televisión de filosofía,
+		uno dice "trasero" en lugar de "culo".
+		Pero los vemos así, abusivamente,
+		nos tiran con todo eso, pasan de una cosa--
+		Y quedamos así, idiotizados, hasta que nos dormimos.
+		Bueno, lo que hace Descartes es decir: "Bueno, basta con esto".
+		Tiro el control remoto al diablo, agarro el otro aparatito,
+		apago el televisor y empiezo a pensar.
+		Estoy dudando de eso, yo estoy dudando de eso
+		porque, en realidad, todo ese vértigo
+		creo que me lo están tratando de meter a mí, en mi conciencia,
+		y yo no quiero que mi conciencia
+		sea el vértigo que me están vendiendo,
+		quiero que mi conciencia sea libre y piense en mis problemas.
+		Entonces, comienzo a dudar, yo voy a dudar de eso.
+		Cuando comienzo a dudar, comienzo a ser libre.
+		Libre porque solo una conciencia crítica es libre.
+		No hay libertad
+		si no está alimentada por la crítica,
+		y la crítica solo puede ser ejercida
+		a partir de la autenticidad del sujeto crítico.
+	.01-4 ¿Qué hacemos con lo que hicieron de nosotros?
+		Y la grandeza del hombre reside en muchas cosas. Reside en que, como dije y tenemos que repasar, es finito en un mundo infinito,
+		es imperfecto en un mundo perfecto, lo angustia su pequeñez, lo angustia la idea de la nada, lo angustia la idea del dolor, de la injusticia
+		y, también, la grandeza del hombre todavía, todavía todavía porque puede ser que esto no sea para siempre, todavía puede radicar
+		en que se rebele contra lo que intentan hacer de él.
+		Quiero decir y, con esto rendir homenaje a un gran filósofo, Jean Paul Sartre, 	que tenía un ojo que se le iba para un lado,
+		pero la inteligencia la tenía clara. Sartre tiene una frase que dice: 
+		  "Cada hombre es lo que hace con lo que hicieron de él".
+		Esta, para mí, es una de las frases fundamentales de toda la historia de la humanidad porque, evidentemente, desde que nacemos,
+		hacen de nosotros algo. Nosotros nacemos y nos hablan, nos meten una lengua si nos hablan y nos hablan, recibimos como una esponja palabras, palabras, palabras...
+		Cuando empezamos a hablar, ¿qué decimos? Decimos las palabras que nos dijeron, es decir, no tenemos un lenguaje propio.
+		Creemos que dominamos una lengua y esa lengua nos domina a nosotros. Pero alguna vez vamos a tener que decir una palabra nueva,
+		alguna vez vamos a tener que decir una palabra que sea nuestra. Esa va a ser nuestra libertad.
+		Entonces, es cierto, está el lenguaje que nos condiciona, el entorno sociopolítico que nos condiciona,
+		está el inconsciente que nos condiciona, es verdad, todo eso, todo lo que quieran, pero, en algún momento, a partir de algún momento,
+		tenemos que ser responsables de nosotros mismos porque somos lo que elegimos ser. 
+		Entonces, bienvenida la frase del maestro Jean Paul que dice: "Cada hombre es lo que hace con lo que hicieron de él".
+		Bien, esta es la grandeza de la filosofía.
+		La grandeza de la filosofía es entender estas cosas, entender estas problemáticas, entender que esto 
+		En realidad, esto requiere coraje, digamos, porque la vida que alguien lleva es una vida que puede parecerle injusta,
+		pero es mansa...  es mansa porque se deja llevar.
+		Bueno, usted va al trabajo, usted a la mañana se afeita, desayuna, va al trabajo, el jefe lo trata mal, pero no lo escupe por lo menos;
+		sigue, almuerza al mediodía en algún lugar, corta y choca porque son esos lugares donde uno come y choca con los codos;
+		come mala comida, pero después se toma un digestivo; después sale y hay problemas con el tránsito; 	llega a su casa agotado, pero, bueno,
+		nada grave lo acosó durante el día; saluda a su mujer, si tiene, y se va a dormir usted, se va a dormir tranquilo y dice: 
+		  "Bueno, pasó otro día de mi vida". Sí, pasó, pero no pasó. No pasó nada en su vida, ese día no pasó nada en su vida.
+		O sea, usted la pasó bien, usted no se amargó, usted no se asustó, usted no se angustió, se deslizó a lo largo de ese día
+		como, bueno, como una especie de... de hoja en la tormenta del capitalismo del siglo XXI,
+		que es el único sistema que está vigente. 
+		Pero sería más interesante si, en ese día, de pronto, usted se para y dice:
+		  "Pero caramba, qué vida de porquería estoy llevando. No puedo seguir viviendo así.
+		   Este empleo que tengo es terrible, mi jefe me trata mal, a mi mujer no me la banco más.
+		   A mis hijos los quiero, pero me voy a separar y me los voy a llevar, o, si no, se los dejo, pero, bueno, yo qué sé, 
+		   la verdad es que no los quiero tanto o me resultan imbancables.
+		   Qué porquería es la televisión que veo, es pura chatarra, pura basura, además esas cosas redondas
+		   que muestran las mujeres todo el tiempo, ya estoy harto. ¿No tienen cara las mujeres?".
+		   ¿Qué pasó? ¿Se les fue la cara a las mujeres?
+		   Antes las mujeres tenían labios, tenían ojos, ojos hermosísimos, tenían, yo qué sé
+		   Por ejemplo, Greta Garbo, Hedy Lamarr, Michelle Pfeiffer, que tiene unos ojos maravillosos...
+		
+		No, olvídese, no hay más.
+		Las mujeres ahora tienen una sola cosa, culo,
+		y usted tiene que ver eso porque eso le están dando.
+		Entonces, hay un momento en el que usted dice:
+		  "Bueno, esto no va más", pero, a partir de ese momento, ojo, usted está solo. Usted está solo.
+		  Y eso se lo tiene que bancar. Se lo tiene que bancar y esa es una actitud filosófica, pero es muy difícil
+		  porque usted, a partir de ahí, dejó de pertenecer a la manada y comienza a pertenecer a usted mismo.
+		  Y, cuando usted comienza a pertenecer a usted mismo, ya no tiene justificaciones, ya no puede distraerse,
+		  tiene que elegir y usted va a ser el responsable de cada una de sus elecciones.
+		
+		Aunque muchas de las cosas que dije
+		están extraídas del pensamiento de grandes filósofos,
+		de todos modos,
+		en nuestras próximas entregas, en nuestros próximos encuentros,
+		si es que usted sintoniza el próximo programa
+		porque, por ahí, se asustó tanto que dice:
+		"No, este tipo me quiere despertar, me quiere cambiar la vida.
+		Yo estoy cómodo así, yo veo lo que hay que ver,
+		hago lo que hay que hacer, como lo que hay que comer,
+		me visto como hay que vestirse, yo estoy fenómeno, así que--".
+		Bueno, no, espere. Está bien, pero acá, eso no va.
+		Acá eso, digamos, nosotros le vamos a plantear
+		cuestiones peligrosas todo el tiempo.
+		La filosofía es así.
+		Vamos a empezar a ver determinados autores
+		para aprender la filosofía de estos autores.
+		Vamos a partir de Descartes, de "El discurso del método" de 1637,
+		después vamos a tomar a Kant,
+		después vamos a tomar a Hegel, después vamos a tomar a Marx
+		y vamos a tratarlos lo más seriamente que podamos.
+		Eh...
+		Y ahora, eh...
+		vamos a...
+		vamos a irnos
+		porque, como todo lo que llega, se va.
+		Es una ley de la vida
+		y es una ley del desarrollo histórico
+		y de la vida de cada uno de nosotros.
+		Llegar e irnos.
+		Bueno, hasta luego.
+
+@02.Sacar la filosofía a la calle.
+    02.1 ¿Sujetos sujetados? (Heideger [Existencia Inautentica: Avidez Novedades|])
+		Habíamos dicho en el programa anterior que la filosofía tiene como surgimiento la condición finita del hombre.
+		En realidad, si el hombre no fuera un ser finito Es decir, "un ser finito" es una frase demasiado exquisita
+		para decir que estira la pata, digamos, para ser más concretos, que se muere.
+		El hombre se muere. Y es porque se muere es porque se muere que reflexiona, filosofa, hace todas las cosas que hace sobre este mundo. 
+		Si en lugar de hombres fuéramos dioses, no nos preocuparían las cosas que preocupan a la filosofía porque los dioses no hacen filosofía. 
+		Los dioses son dioses y, bueno, retozan en el Olimpo o le dictan las Tablas de la Ley a Moisés, bueno, hacen cosas que ninguna implica morir,
+		pero el hombre sí, el hombre es un ser finito.
+
+		Lo interesante de esto para avanzar porque esto ya lo dijimos, es pensar en qué pasaría si fuéramos inmortales, qué pasaría si no nos muriéramos.
+		Hay un cuento, excelente cuento porque no todos los cuentos de Borges son buenos,
+		pero este es bueno, es bueno en serio,
+		que es "El inmortal".
+		"El inmortal" trata, justamente, la historia de alguien que no va a morir jamás
+		y que se encuentra con Homero una vez,
+		Homero, que es inmortal.
+		Entonces, narra y dice:
+		"Me encontré con Homero en las puertas de Tánger. Creo".
+		Perdón. "Me despedí de Homero en las puertas de Tánger.
+		Creo que no nos dijimos adiós".
+		Claro, porque dos inmortales no se pueden decir adiós.
+		Dos inmortales, inevitablemente, en el largo de su inacabable vida,
+		se van a volver a encontrar en algún momento.
+		Nosotros decimos "adiós", "hasta luego", "hasta pronto",
+		"que te vaya bien en ese viaje", "ojalá vuelvas pronto"
+		porque sabemos que cada partida puede tener un no retorno,
+		puede no tener un retorno.
+		Dos inmortales que se separan saben que,
+		en algún momento de sus vidas, se van a volver a encontrar.
+		O sea, ¿qué sacamos de esto?
+		Que el hombre es...
+		un ser patético...
+		patético porque vive una situación patética,
+		la de saber su finitud,
+		pero, a la vez, es un ser precioso
+		porque cada uno de los instantes de su vida
+		vale infinitamente.
+		El instante de la vida de un inmortal no vale nada
+		porque ese instante va a ser repetido hasta la náusea,
+		va a ser repetido hasta el infinito.
+		En cambio, cada uno de los instantes de nuestra vida
+		es único...
+		es único porque es un camino hacia la muerte,
+		es verdad, pero es también nuestra vida actual, presente,
+		la que estamos viviendo ahora.
+		Entonces, eso es lo que nos hace preciosos, preciosos...
+		Cada momento de nuestra vida es precioso.
+		Entonces, eso es, digamos,
+		lo que Borges básicamente plantea en ese cuento, "El inmortal",
+		lo plantea muy bien y, por supuesto,
+		con muy buena prosa porque Borges escribía muy bien.
+		Ahora, el pensamiento filosófico
+		es deseable que sea autónomo...
+		autónomo y no solo el pensamiento filosófico,
+		el suyo también, el mío también...
+		En general, es conveniente, es recomendable
+		que nuestro pensamiento sea autónomo,
+		es decir, que sea nuestro,
+		que no seamos pensados por el sistema
+		por darle este nombre así, general a la cosa.
+		Digamos, hay un enorme sistema que nos piensa,
+		que piensa todo por nosotros,
+		entonces, nos ahorra la terrible tarea de pensar.
+		A esto, Heidegger lo llama
+		vivir en estado de interpretado.
+		Casi toda la gente de este mundo
+		vive en estado de interpretado.
+		Les voy a dar un ejemplo de estado de interpretado:
+		la ideología taxi.
+		Espero que-- Yo tomo muchos taxis, espero que no se enojen conmigo.
+		Generalmente, uno sube al taxi
+		y el taxista argentino tiene una costumbre muy peculiar,
+		que es que uno sube y él le empieza a hablar.
+		Esto es muy argentino,
+		le empieza a hablar de lo que escucha por la radio,
+		entonces, a penas dice dos palabras, uno ya sabe qué radio escucha,
+		entonces, uno puede decirle: "Mire, no siga hablando
+		porque yo sé que usted me va a decir esto, esto, esto y esto",
+		y dirá el taxista: "¿Cómo lo sabía?",
+		"Lo sé porque eso es lo que dicen en la radio que usted escucha,
+		entonces, usted no está diciendo sus ideas,
+		está diciendo las ideas de la radio que escucha;
+		usted no está hablando, está siendo hablado;
+		usted no está pensando, está siendo pensado;
+		usted vive en estado de interpretado,
+		sus ideas no son suyas, lo que usted dice no le pertenece".
+		Entonces, a esta cuestión de vivir en estado de interpretado,
+		Heidegger la va a llamar "la existencia inauténtica".
+		La existencia inauténtica es, ante todo,
+		aquella que es incapaz de reflexionar
+		de cara a la finitud del hombre,
+		la existencia inauténtica es aquella que vive en exterioridad.
+		Vamos a dar dos o tres elementos de la existencia inauténtica.
+		La avidez de novedades...
+		Por ejemplo, la gente vive devorada por la avidez de novedades,
+		es decir, salta de una cosa a la otra.
+		¿Qué hay de nuevo en literatura? Tal cosa.
+		¿Qué hay de nuevo en moda? Tal otra.
+		Por eso, digamos, la moda,
+		que es un ejemplo total de la avidez de novedades,
+		cambia constantemente,
+		justamente para posibilitar, facilitar y promover el consumo.
+		La avidez de novedades.
+		Después está también
+		lo que hay que leer, lo que hay que ver, etcétera.
+		Todo esto tiene que ver con la existencia inauténtica.
+		Es decir, son sujetos sujetados por el poder.
+	02.2 Si la historia está en manos de Dios ¿qué hacen los hombres?
+		La filosofía tiene como condición de posibilidad
+		dejar de lado a Dios
+		porque la filosofía es un sistema de formular preguntas
+		y de posibilitar algunas respuestas, pero, fundamentalmente, yo diría
+		que la filosofía es el arte de preguntar.
+		En cambio, Dios es el arte o el ser que da todas las respuestas.
+		Durante el Medioevo...
+		durante el Medioevo, los hombres
+		no hicieron filosofía porque la verdad...
+		la verdad les era revelada por Dios.
+		Al ser la verdad revelada por Dios, no buscaban la verdad,
+		bastaba creer en Dios,
+		bastaba creer en lo que Dios revelaba
+		a través de los textos evangélicos para tener todas las respuestas.
+		En realidad, era una situación bastante cómoda,
+		es decir, la vida era un páramo de lágrimas,
+		pero alguien había venido a sufrir
+		y había redimido todos nuestros pecados
+		y hay una promesa, que es la promesa divina,
+		de que vamos a llegar al Reino de los Cielos
+		y ahí seremos todos eternos y felices.
+		Este relato...
+		por supuesto, paraliza a los seres humanos
+		porque todo está resuelto...
+		todo está resuelto, no hay preguntas que hacer
+		porque Dios las responde a todas,
+		no hay orden histórico que transformar
+		porque este no es...
+		este decurso histórico no es el importante,
+		sino el que va a venir después, el del Reino de los Cielos.
+		Entonces, durante diez o trece siglos,
+		la historia permaneció detenida.
+		Permaneció detenida
+		porque no son los hombres los que hacen la historia.
+		Cuando los hombres se someten a la veracidad divina,
+		al juicio divino, a la promesa divina,
+		no toman la historia entre sus manos,
+		el que está haciendo la historia es Dios.
+		Es tanto lo que creen en la figura de Dios
+		y en sus representantes terrenos, es decir, la Iglesia,
+		que quedan históricamente paralizados.
+		Si a eso le añadimos
+		el poder terrenal, despiadado de la Inquisición,
+		entonces, efectivamente, los hombres trabajan,
+		son labriegos
+		y toda verdad es una verdad revelada por Dios.
+		La duda que pueda tener cualquier hombre
+		la tiene que ir a decir en el confesionario,
+		entonces, en el confesionario, surge
+		lo que Michel Foucault llama "el poder pastoral".
+		El poder pastoral
+		es uno de los poderes más despóticos que se ha instalado en la Tierra.
+		El poder pastoral es el poder
+		de los representantes de la Iglesia en el confesionario.
+		Es decir, ¿qué hace alguien cuando va al confesionario?
+		Le va a decir al cura,
+		ante el cual se somete en el confesionario,
+		le va a decir lo que le pasa.
+		"Padre, he pecado", "Padre, he hecho esto, aquello...".
+		Y el cura lo escucha y...
+		domina su subjetividad, la tiene.
+		El otro le entrega la subjetividad al cura
+		y el cura la recibe
+		y le da dos o tres cosas, padrenuestro...
+		y lo manda afuera.
+		Entonces, hay una...
+		"Hay un poder pastoral dice Foucault,
+		que se realiza a través de la confesión.
+		Luego va a decir Foucault,
+		va a venir el poder pastoral del estado.
+		Es el estado moderno
+		el que, a través de la ciencia, las prisiones,
+		los manicomios, el psicoanálisis
+		va a representar ese poder pastoral".
+		Ustedes observen, lo interesante que dice Foucault
+		es que esa confesión
+		que el hombre del Medioevo le hacía al cura
+		es muy similar a la confesión
+		que el paciente le hace al psicoanalista hoy en día.
+		De modo que el poder pastoral en el estado moderno
+		lo tienen las instituciones de...
+		medicinales, psicoanalíticas,
+		las cárceles, los manicomios,
+		donde se agrupa a la gente.
+	02.3 ¿En qué consiste la ruptura de Descartes con el pensamiento teologal del Medioevo?
+		Colón, al descubrir América, implica--
+		escenifica la decisión del hombre prometeico
+		de ir a la conquista de los territorios nuevos.
+		Es una empresa capitalista porque Colón va a América
+		para expropiar América.
+		Entonces, cuando decimos que la conquista española de América
+		implicó la muerte de cincuenta millones de indígenas,
+		tratemos de sacar esta cifra de la estadística
+		y de pensarla como lo que realmente es:
+		cada uno de esos cincuenta millones fue uno.
+		Hay una frase sobre el Holocausto judío que dice:
+		"No mataron a seis millones de judíos,
+		mataron a un judío
+		y después lo mataron seis millones de veces más".
+		Entonces, esta conquista y este genocidio americano
+		del hombre capitalista--
+		Como los españoles eran algo lentos en esto,
+		fueron aventajados por los piratas
+		que robaban los galeones españoles que llevaban el oro
+		y lo derivaban a Inglaterra,
+		que se hizo la gran nación de la burguesía industrial.
+		Ahora bien...
+		Ahora bien, en 1637,
+		Descartes pone al hombre en la centralidad,
+		desplaza a Dios.
+		Dios ya no es el que está en la centralidad.
+		Dios ya no es el centro,
+		el que revela la verdad a los demás hombres.
+		Ahora, lo que está puesto en la centralidad
+		de la explicación de la historia humana
+		es el hombre...
+		el hombre, atención, en tanto sujeto,
+		el hombre en tanto pensamiento,
+		el hombre en tanto subjetividad.
+		Lo que hace Descartes es decir--
+		Con esa famosa frasecita, "Pienso, luego existo",
+		"Cogito ergo sum",
+		lo que está diciendo Descartes
+		es que el sujeto capitalista al cual él representa
+		se define por la subjetividad
+		y que, ahora, es la subjetividad
+		aquello que da fundamento a todo lo existente.
+		La subjetividad es ahora el "subiectum".
+		El "subiectum" es aquello que subyace
+		a todo lo que existe.
+		Así como los griegos lo llamaban "hypokeimenon",
+		es decir, aquello que es el basamento de todo lo existente,
+		Descartes, al poner al pensamiento como base de todo,
+		de curso filosófico, histórico, etcétera, etcétera,
+		ahora es la subjetividad del hombre
+		el punto de partida de todo razonamiento.
+		Con esto, entonces, nosotros tenemos
+		nada menos que esta subjetividad.
+		No es cualquier subjetividad.
+		Esto que yo estoy explicando,
+		habitualmente, no se explica de este modo,
+		habitualmente, se dice que Descartes dijo: "Pienso, luego existo",
+		que después vino Kant y dijo:
+		"Las condiciones de la posibilidad del sujeto
+		son las mismas que las del objeto", que después vino Hegel y dijo:
+		"Todo consiste en concebir a la sustancia como sujeto".
+		Es decir, ¿qué hace esa gente?
+		No hace historia razonada la filosofía,
+		hace historia de los héroes del pensamiento.
+		Descartes, pasamos a Kant,
+		pasamos a Hegel, pasamos a Nietzsche...
+		Entonces, todo esto es un gran movimiento,
+		es decir, Colón descubre América,
+		Copérnico, Giordano Bruno, Galileo y Descartes.
+		Y Descartes viene a decir
+		que ya que hemos desafiado tanto en el campo astronómico
+		al poder de la Iglesia, digamos la verdad:
+		el hombre se está adueñando de la historia.
+		Cuando Descartes...
+		es decir, y el Renacimiento surgen
+		es que el hombre se está adueñando de la historia.
+		Les voy a dar un ejemplo muy contundente:
+		Durante trece siglos,
+		en la Edad Media, no pasó nada o pasó poco.
+		"El discurso del método" es de 1637
+		y en 1789 ocurre la gran revolución burguesa,
+		que es la Revolución francesa.
+		De 1637 a 1789 hay muy poco tiempo.
+		Cuando Descartes escribe "El discurso del método",
+		le está cortando la cabeza a Luis XVI
+		porque ahí es el hombre de la burguesía
+		el que se pone en la centralidad
+		y es el hombre de la burguesía capitalista
+		el que comienza a hacer la historia.
+		Entonces, cuando el hombre comienza a hacer la historia,
+		la historia se dinamiza
+		porque el hombre ya no está esperando de Dios--
+		que Dios haga la historia, la hace él.
+		Entonces, la historia cobra un ritmo que antes no tenía
+		porque antes era la etapa de la espera,
+		se esperaba el Reino de los Cielos,
+		ahora los hombres ya no esperan nada,
+		lo hacen todo ellos.
+	02.4 Descartes, ¿un héroe del pensamiento?
+		Hegel decía que Descartes era un héroe del pensamiento
+		y, efectivamente, lo es.
+		Es un héroe del pensamiento del capitalismo burgués.
+		Con Descartes, surge la subjetividad capitalista.
+		A algunos quizás les llame la atención
+		que yo una a Descartes
+		con el surgimiento de la subjetividad capitalista,
+		pero es que la filosofía es así,
+		la filosofía ocurre en medio de la historia,
+		en medio de las relaciones de producción
+		y en medio de las relaciones sociales de producción.
+		Descartes es un señor burgués
+		que decide que la subjetividad de su clase social,
+		la burguesía,
+		es el elemento que funda toda la realidad.
+		Entonces, Hegel, que también era un filósofo de la burguesía,
+		lo llama héroe del pensamiento
+		porque se ha atrevido a dudar de todo
+		y, sobre todo,
+		se ha atrevido a dejar a Dios como principio supremo.
+		Entonces, la cabeza de Luis XVI, cuando cae...
+		no es que sea Descartes el que le tiró la guillotina
+		y la cabeza rodó,
+		pero sí es el pensamiento de Descartes
+		el que dio origen a ese proceso histórico
+		que llevó a las turbulentas jornadas de la Revolución francesa,
+		la toma de la Bastilla y la decapitación de Luis XVI.
+		Es muy interesante ver que el pensamiento de Descartes
+		es subversivo.
+		En la Argentina, esta palabra tiene un triste recuerdo
+		y, en realidad, cada vez que la decimos,
+		nos ponemos mal
+		porque recordamos etapas muy negras de la Argentina
+		en las cuales, ni por asomo, este programa
+		habría podido ser realizado.
+		Es decir, todos los que estamos haciendo este programa,
+		en otra etapa de la Argentina,
+		salíamos a la calle y no existíamos más después.
+		Pero, bueno-- porque ya nos estarían esperando.
+		Pero Descartes--
+		El pensamiento de Descartes es subversivo
+		porque cuestiona el orden instaurado de la teología medioeval,
+		cuestiona el orden de la Iglesia
+		y cuestiona el orden de la Inquisición,
+		por eso Descartes, que quizás no era demasiado valiente,
+		escribió "El discurso del método" en Holanda,
+		que era un país liberal,
+		donde todavía se podía escribir y pensar
+		porque, en realidad, un filósofo, para pensar,
+		tiene que tener cierta tranquilidad de espíritu;
+		no se puede pensar...
+		y estar esperando que a uno lo vengan a buscar para...
+		para decapitarlo, tirarlo por ahí, ese tipo de cosas, ¿no?
+		El pensamiento exige la libertad del contorno.
+		Los regímenes autoritarios lo primero que hacen
+		es establecer un dogma y prohibir el pensamiento libre.
+		Eso ocurre tanto en la Iglesia medioeval,
+		como ocurrió en el régimen soviético durante el estalinismo.
+		Es decir que se establece un dogma del partido
+		y el que piensa fuera del dogma del partido
+		es liquidado, Siberia.
+		Bueno, entonces,
+		el pensamiento de Descartes es subversivo
+		porque lo subversivo es lo que subvierte,
+		es decir, lo que subvierte es que cambia,
+		lleva a que una cosa se transforme en otra...
+		se transforme en otra.
+		El pensamiento de la burguesía capitalista
+		que expresa Descartes
+		se expresa en la realidad
+		a partir de la praxis de los revolucionarios franceses.
+		Hay cosas notables que influyen en la historia.
+		Una de las cosas que más decidió
+		el ímpetu salvaje de la Revolución francesa
+		fue el pensamiento, por supuesto,
+		de los ilustrados, el pensamiento de la Ilustración,
+		de los que escribieron la enciclopedia,
+		Diderot, d'Alembert
+		Rousseau, Voltaire,
+		pero hubo una frase...
+		hubo una frase de María Antonieta
+		que llenó de indignación y de fuerza revolucionaria
+		a toda la población,
+		al menos a las clases que pasaban hambre.
+		Le preguntaron a esta reina--
+		Le dijeron, le informaron a esta reina
+		que el pueblo tenía hambre
+		y, célebremente,
+		célebremente, María Antonieta dijo:
+		"¿Por qué tiene hambre el pueblo?",
+		y le dijeron que porque no tenía pan,
+		y ella respondió: "Bueno, que coman pasteles".
+		Este fue uno de los motivos que dinamitó la Revolución francesa.
+		Esa frase resultó intolerable para la plebe
+		y la plebe, a partir de esa injuria,
+		decide rebelarse y la revolución se desata.
+		Como vemos, a veces, basta un elemento de irritación
+		para que una situación encuentre el desenlace histórico
+		detrás del cual estaba.
+		O sea, trece siglos de Edad Media no resuelven nada
+		y... la subjetividad
+		del hombre capitalista de la modernidad
+		se arroja en una historicidad desbocada
+		que, en poco más de un siglo,
+		produce un hecho trascendental como la Revolución francesa.
+		La Revolución francesa pone al hombre capitalista
+		en la centralidad.
+		Es la burguesía capitalista la que se adueña del poder.
+		La monarquía pertenece al pasado.
+		Una revolución consiste
+		en poner en el centro de la historia
+		a la clase históricamente más moderna, más revolucionaria.
+		Entonces, la aptitud
+		que va a tener el hombre capitalista
+		es la aptitud de hacer la historia.
+		Como vamos a ver
+		y esto va a volver muy apasionante nuestro curso,
+		el capitalismo va a generar su antagonista,
+		que va a ser el proletariado
+		y eso nos lo va a explicar el cabezón barbado, Marx,
+		que vemos ahí. Ahora, lo dejamos aquí.
+		Yo qué sé, me voy
+		porque la filosofía tiene que salir a la calle
+		y ensuciarse un poco.
+		Usted vive en estado de interpretado,
+		sus ideas no son suyas, lo que usted dice no le pertenece.
+		La filosofía tiene como condición de posibilidad
+		dejar de lado a Dios.
+		La Revolución francesa
+		significa el asalto al poder político
+		por parte de la burguesía,
+		que ya había conquistado a la base real de la sociedad,
+		el poder económico.
+		Es muy interesante ver que el pensamiento de Descartes
+		es subversivo.
+
+@03.Colón descubre América; Descartes la Subjetividad
+	03.1¿ Qué es el humanismo?
+		Tenemos dos grandes descubrimientos.
+		Colón descubre América y Descartes descubre la subjetividad.
+		No siempre estas cosas se relacionan.
+		En realidad, yo ya lo dije, lo vuelvo a decir
+		y lo voy a decir insistentemente.
+		La historia de la filosofía se estudia mal.
+		La filosofía se estudia mal.
+		¿Por qué? Porque la filosofía se estudia
+		como si los filósofos fueran unos tipos distraídos
+		que andan por ahí pensando cosas...
+		pensando cosas que nadie entiende.
+		En cambio, los filósofos son seres muy terrenales
+		metidos en procesos históricos,
+		grandes procesos históricos,
+		que ellos expresan y que ellos dinamizan
+		con su pensamiento.
+		Entonces, la relación entre Descartes
+		y el descubrimiento de América
+		no es frecuente que ustedes la encuentren
+		en los libros de filosofía porque van a decir:
+		"¿Para qué vamos a poner el descubrimiento de América
+		en un libro de filosofía?
+		Si un libro de filosofía no es un libro de historia
+		y un libro de historia no tiene que ser
+		un libro de filosofía", pero no,
+		Descartes y Cristóbal Colón tienen mucho que ver
+		porque Cristóbal Colón descubre América
+		para el capitalismo, como lo habíamos visto.
+		No es que descubre América porque América no existía.
+		América existía,
+		pero no existía
+		para los ojos mercantilistas del capitalismo.
+		El capitalismo descubre América con Colón
+		e incorpora a América al mundo europeo,
+		que era el mundo por ese momento,
+		en esos momentos.
+		Entonces, se establece así un sistema mundo.
+		Ahora, este sistema mundo...
+		este sistema mundo requiere un protagonista
+		y el protagonista es el hombre.
+		Es el hombre el que sale a buscar nuevos mundos
+		porque el hombre medioeval
+		no hubiera buscado nunca nuevos mundos
+		porque el mundo era un lugar de pasaje,
+		un lugar de llanto,
+		un mero lugar de pasaje camino hacia el Reino de los Cielos,
+		pero el hombre de la modernidad sale a buscar nuevos mundos.
+		Este es el hombre capitalista.
+		Ahora, este hombre
+		necesita tener una subjetividad, necesita pensarse a sí mismo,
+		necesita saber quién es él,
+		cuál es su relación con la realidad exterior.
+		Aquí aparece Descartes, quien, como lo dijimos,
+		parte de una concepción de la filosofía como duda.
+		Descartes ha demostrado la existencia del pensamiento,
+		pero no demostró la existencia de las cosas externas.
+		Lo que ha hecho hasta ahora Descartes
+		es poner al hombre en la centralidad.
+		El hombre es el centro.
+		Ese hombre es el sujeto capitalista de la historia.
+		El hombre es la centralidad y, con esto, nace el humanismo.
+		El humanismo nace cuando el hombre ocupa la centralidad
+		y desplaza a Dios de la centralidad.
+		Con esto nace el humanismo.
+		A este humanismo lo llamamos humanismo porque parte del hombre.
+		¿De dónde parte Descartes?
+		Parte de la subjetividad, pero esa subjetividad
+		es la subjetividad del hombre.
+		Entonces, el humanismo, vamos a definirlo así,
+		el humanismo es una concepción que hace del hombre
+		el punto de partida epistemológico fundamental.
+		Epistemológico se refiere a todo aquello que sea
+		el pensamiento científico sobre la realidad.
+		Entonces, el humanismo es esa concepción
+		que parte del hombre como sujeto,
+		del hombre como sujeto centrado a partir del cual
+		es posible conocer todo lo otro que hay en el mundo.
+		Entonces...
+		el...
+		el nuevo problema que encarna Descartes
+		y el problema que realmente lo va a angustiar seriamente
+		es un problema que podemos disfrutar planteándolo
+		porque--
+		Veámoslo así: este señor,
+		este señor, René Descartes,
+		en Holanda junto a una estufa, tranquilo,
+		protegido por la monarquía holandesa,
+		sin miedo a la Inquisición
+		descubre que el centro del pensamiento
+		es la subjetividad.
+		Está seguro de eso.
+		Dice Descartes: "De eso yo estoy seguro.
+		Yo estoy seguro de que mi pensamiento
+		es el origen de todo posible filosofar".
+		Ahora, Descartes dice: "Sin embargo--".
+		Fíjense ustedes que, para el sentido común,
+		esto es casi risible, diríamos,
+		un buen hombre laborioso campesino le diría a Descartes:
+		"No sé por qué usted se plantea estas cosas.
+		Es tan evidente que mi vaca está ahí,
+		que mi carruaje está ahí, que mi asada está ahí",
+		pero Descartes diría: "Pero yo soy un filósofo,
+		yo tengo que dar cuentas, es decir,
+		yo tengo que justificar metodológicamente,
+		epistemológicamente, filosóficamente
+		que la realidad externa existe".
+	03.2. Descartes demuestra la existencia del pensamiento, pero ¿cómo demuestra la existencia de la realidad externa?
+		Descartes dice:
+		"Ya que yo veo todas esas cosas ahí afuera,
+		esas cosas tienen que existir
+		porque, si yo las viera y no existieran,
+		Dios me estaría engañando.
+		Entonces, tienen que existir porque Dios es infinitamente bueno,
+		es infinitamente veraz, es incapaz de todo engaño
+		y, si yo veo todo lo que está ahí afuera,
+		es que Dios no me está engañando,
+		sino que todo eso que está ahí afuera está".
+		Ahora...
+		Descartes introduce aquí una figura muy simpática,
+		que es la del genio maligno,
+		"le malin génie", en francés, porque Descartes--
+		Descartes escribía en francés, esta "disgresión"--
+		(Corrigiéndose) esta digresión.
+		Jamás digan "disgresión", por favor, es "digresión".
+		Esta digresión es muy importante
+		porque Descartes escribía en francés, no escribía en latín,
+		quería hacerse entender,
+		quería llegar a que la gente lo entendiera,
+		quería llegar al pueblo en última instancia.
+		Entonces, dice--
+		introduce esta figura de "le malin génie",
+		el genio maligno.
+		Descartes dice: "Podría haber un genio maligno
+		que me engañara
+		y todo lo que está ahí afuera no existe".
+		Entonces, yo estaría viendo todo eso y eso no existe
+		porque el genio maligno me está engañando.
+		Sin embargo, dice:
+		"La veracidad de Dios tiene que ser más fuerte
+		que el poder del genio maligno
+		y yo no puedo dudar de la veracidad divina".
+		Entonces, Descartes llega a la siguiente conclusión:
+		Todo aquello que yo veo que está ahí afuera, es decir,
+		la "res extensa", la cosa externa, tiene que existir
+		porque, si no existiera, Dios me estaría engañando
+		y yo creo en la veracidad divina.
+		Ahora bien, metodológicamente, como vemos,
+		Descartes se ha traicionado porque,
+		para demostrar la existencia exterior de las cosas,
+		no se ha remitido
+		a su fundamento primero, el pensamiento,
+		sino que se ha remitido
+		al viejo fundamento de la teología medioeval, a Dios.
+		Entonces, estamos de nuevo en la teología medioeval.
+		Para demostrar la existencia de la realidad externa,
+		Descartes recurre a Dios.
+		Recuerdo un chiste muy lindo
+		que se contaba en mis viejos años de estudiante
+		en la calle Viamonte.
+		En la calle Viamonte estaba la Facultad de Filosofía
+		y ese era un ámbito mítico donde circulaban personajes
+		como Oscar Masotta, León Rozitchner...
+		en fin, Eliseo Verón, Sebreli...
+		y, a veces, yo.
+		Bueno, eh...
+		Había un chiste que salía en una revista,
+		que era el siguiente,
+		era una broma a la filosofía idealista.
+		En el primer cuadrito de la historietita
+		salía un filósofo y había un florero dibujado en el aire
+		y el filósofo decía: "Todo esto es muy sencillo.
+		Ese florero está ahí porque yo lo pienso.
+		Como yo pienso ese florero, ese florero está ahí".
+		Segundo cuadrito, el florero y el filósofo,
+		el filósofo dice: "Si yo dejara de pensar
+		que ese florero está ahí...".
+		Tercer cuadrito, el florero solo, se escucha la voz del filósofo:
+		"Ese florero dejaría de existir".
+		Cuando, en realidad, el chiste era que el que dejó de existir
+		fue el filósofo.
+		Este es un chiste típico del materialismo filosófico,
+		es decir, el que propone
+		la primacía de la materia sobre la subjetividad.
+		Nosotros éramos muy jovencitos
+		y estábamos estudiando a Descartes en 1966.
+		En 1966 se da el golpe cavernícola
+		del general Juan Carlos Onganía.
+		A Onganía le habían dicho que en las facultades
+		residía el monstruo marxista,
+		entonces, Onganía decidió extirparlo.
+		Para extirparlo, bueno, hizo lo de siempre,
+		mandó los camiones de asalto, a la policía con los palos--
+		Había salido un chiste de Quino por esa época
+		que llamaba al palo de policía "el palo de abollar ideologías".
+		Entonces, la policía entra en las facultades.
+		Era la primera vez que se violaba la autonomía universitaria.
+		Entonces, la policía de Onganía entra en las universidades
+		y, en Ciencias Económicas y Ciencias Sociales,
+		pega muy duramente,
+		hay profesores que salen ensangrentados...
+		Bueno, nosotros estábamos...
+		nosotros estábamos en Filosofía y la cosa fue más calma,
+		pero lo divertido fue que estábamos planteándonos
+		cómo demostrar
+		la veracidad de la realidad exterior.
+		Estábamos estudiando a Descartes y nos preguntábamos
+		cómo demostrar...
+		cómo demostrar que la realidad externa
+		realmente existía.
+		En ese momento, entró la policía a la facultad,
+		hicieron un doble--
+		así, una doble hilera, nos hicieron pasar por el medio
+		y nos dieron palos de arriba a abajo.
+		Ahí nos dimos cuenta de que existía la realidad externa.
+		La realidad externa existía, nos molía a palos y era fascista.
+	03.3 El sujeto cartesiano: ¿un sujeto transparente?
+		Aparte de los bastones de la policía para abollar ideologías,
+		la subjetividad,
+		como principio fundante de la filosofía
+		y como elemento a partir del cual
+		se podía demostrar la existencia de la realidad externa,
+		el "cogito" cartesiano,
+		el "ego cogito", el "pienso, luego soy",
+		va a recibir varios palazos a lo largo de la historia,
+		pero hay uno, sobre todo, que es...
+		en Buenos Aires es muy conocido
+		y que proviene de la cualidad neurótica
+		de esta ciudad portuaria
+		llena, precisamente, de neuróticos.
+		Donde hay muchos neuróticos, hay muchos psicoanalistas
+		y, donde hay muchos psicoanalistas, hay muchos neuróticos a la vez.
+		Ahora comienza a haber muchos psicofármacos,
+		quizás esto reduzca los neuróticos, a los psicoanalistas y aumente--
+		Bueno, no importa.
+		Paso ahora al tema al que quería ir.
+		El tema al que quiero ir es, justamente, Freud.
+		Como vemos aquí, Sigmund--
+		Freud es un hombre que dijo una frase muy muy adecuada,
+		que un cigarro a veces es un cigarro...
+		porque...
+		siempre que uno ve un cigarro, dice: "Eso es un pene".
+		No, no, no, a veces, un cigarro es un cigarro.
+		Aun en Buenos Aires...
+		aun en Buenos Aires.
+		Bueno, el golpe que el psicoanálisis
+		le da al sujeto cartesiano
+		es decirle, como le diría Freud a Descartes,
+		"Mire, Renato, realmente hay algo que usted no tuvo en cuenta.
+		¿Usted, Renato preguntaría Freud, se come las uñas a veces?",
+		"Sí", diría Descartes,
+		"¿Usted, a veces, hace actos que no puede controlar?".
+		"Sí, sí".
+		"¿Usted sueña cosas?". "Sí, sí, sí".
+		"¿Sueña con su padre, con su madre?". "Sí".
+		"Bueno, es un neurótico".
+		Es decir, hay cosas...
+		hay cosas en su sujeto
+		transparente, translúcido,
+		punto indubitable de todo conocimiento--
+		hay cosas que ese sujeto ignora...
+		Hay cosas que ese sujeto ignora
+		y esas cosas las ignora
+		porque "Yo no sé dónde", va a decir Freud.
+		"No sé dónde está esto, no es que el inconsciente--".
+		"¿Qué es el inconsciente?", diría Descartes.
+		"El inconsciente es todo aquello que no pasa por la conciencia,
+		que no se entiende desde la conciencia,
+		sino que no puede ser conocido ni controlado por la conciencia.
+		O sea, su conciencia, Descartes, no es tan transparente,
+		sino que está realmente herida o dividida--".
+		Ese sujeto está dividido
+		porque hay en él una opacidad...
+		una opacidad que nos lleva a hacer actos que no queremos hacer,
+		nos lleva a tener conductas repetitivas
+		que no queremos tener,
+		nos lleva a soñar cosas que nos revelan
+		o nos ocultan otras cosas.
+		Entonces, Freud le enseñaría a Descartes
+		la primera gran herida del narcisismo del "cogito",
+		que es la existencia del inconsciente.
+		Pero, bueno, vamos a eso nosotros--
+		Yo quería enunciarlo ahora para dejarlo plantead.
+		Como la gran herida del "cogito" cartesiano
+		va a ser esa,
+		está en muchos libros de Freud,
+		quizás en algunos más que otros, pero es bueno,
+		digamos, recurrir a ciertos libros de Freud
+		para que descubramos cómo el inconsciente,
+		como brillantemente lo ha trabajado don Sigmund,
+		efectivamente hiere el narcisismo del "cogito" cartesiano.
+		Ahora, el problema
+		en el que habíamos dejado a Descartes era
+		cómo se demostraba la existencia de la realidad externa.
+		Ahí Descartes recurre a la veracidad divina,
+		pero, para recurrir a la veracidad divina,
+		hay que demostrar que Dios existe,
+		pero ¿cómo sé que Dios existe?
+		Bueno, esto es todo un problema.
+		Esto es lo que se llama "la prueba ontológica".
+		La prueba ontológica es la prueba acerca del ser de Dios,
+		es decir que Dios tiene un ser y que ese ser expresa su existencia,
+		que Dios existe.
+		Hay...
+		hay un punto que yo voy a analizar
+		acerca de cómo Descartes demuestra la existencia de Dios,
+		que es el punto más genuinamente cartesiano
+		porque Descartes va a decir:
+		"Dado que la imagen de Dios está en mí
+		y dado que, en mí, la imagen de Dios es la imagen de un ser perfecto,
+		existe en mí la idea de la perfección.
+		Si la idea de la perfección existe en mí,
+		que soy un ser imperfecto,
+		quiere decir que alguien que es perfecto la puso ahí".
+		Esto está claro, pero igual lo voy a repetir.
+		Descartes demuestra la existencia de Dios
+		del siguiente modo:
+		existe en mí la idea de la perfección.
+		Yo no soy perfecto, en consecuencia,
+		alguien que es perfecto la puso en mí
+		y ese es Dios.
+		Bueno...
+		Sin embargo, ustedes observen
+		que esta demostración que hace Descartes
+		de la existencia de Dios...
+		Esta demostración está hecha a partir de la subjetividad también
+		porque no demuestra la existencia de Dios
+		dejando de lado la subjetividad,
+		sino que la demuestra partiendo otra vez del "cogito".
+		¿Por qué? Porque Descartes dice:
+		"Dado que existe en mi subjetividad, en mi pensamiento,
+		en mi "cogito" la idea de la perfección,
+		debe existir un ser perfecto".
+		O sea, demuestra la existencia del ser perfecto
+		porque existe en la conciencia la idea de la perfección.
+		Está bien, digamos, es como haber tirado la esponja
+		dentro del pensamiento de Descartes,
+		es una flojeada,
+		pero es una flojeada hasta cierto punto
+		porque demuestra la existencia de Dios
+		porque, en el pensamiento, existe la idea de la perfección.
+		Entonces, es desde el pensamiento que demuestra la existencia de Dios.
+		Porque hay en la conciencia una idea de la perfección,
+		es que tiene que existir un ser perfecto
+		que la haya puesto ahí.
+	03.4 ¿El dualismo entre el sujeto y el objeto es un dualismo insuperable?
+		Sartre va a demostrar
+		que no hay una conciencia por un lado
+		y un mundo por otro,
+		que la conciencia es intencional,
+		que la conciencia está toda ella arrojada sobre el mundo,
+		que no es que exista aquí la conciencia, el mundo ahí.
+		Hay conciencia de mundo,
+		eso es lo que hay.
+		El mundo le es inalienable a la conciencia,
+		no hay una conciencia que no sea, a la vez, conciencia de mundo.
+		Esto es lo que Sartre y los fenomenólogos van a llamar
+		"intencionalidad de la conciencia".
+		La conciencia no existe reposando en sí.
+		Sartre tiene una hermosa imagen que es
+		como conteniendo el aliento.
+		La conciencia no está conteniendo el aliento,
+		la conciencia está como vomitada, expectorada sobre el mundo,
+		está toda ella arrojada sobre el mundo.
+		Cuando yo corro detrás de un colectivo,
+		no hay conciencia de estar corriendo detrás del colectivo,
+		la única conciencia que hay es "conciencia colectivo".
+		Es decir, si yo tomara conciencia
+		de que estoy corriendo el colectivo, lo perdería
+		porque sería un momento en el cual me bloquearía.
+		Ahora...
+		Volviendo a Descartes--
+		Pero no olvidemos claramente esto sobre lo cual vamos a volver:
+		las filosofías fenomenológicas
+		son aquellas que hacen de la conciencia
+		un acto de pura intencionalidad.
+		La conciencia se arroja sobre el mundo,
+		no hay un mundo ahí...
+		Hay "conciencia mundo".
+		Ahora, el rol--
+		Me interesa volver en este momento
+		al rol del filósofo en Descartes.
+		Descartes, en el final de "El discurso del método",
+		tiene un muy lindo texto, termina diciendo--
+		termina diciendo un texto...
+		cálido, muy lindo, dice:
+		"Quienes lean esto...
+		que, recordemos, lo escribe en francés
+		para que todos lo lean,
+		quienes lean este texto, 'El discurso del método' de 1637,
+		quienes lo lean y les guste...
+		Yo no deseo para mí fortuna ni grandes empleos,
+		solo deseo que me dejen disfrutar de mi ocio".
+		En realidad, el rol del filósofo
+		es que lo dejen disfrutar de su ocio,
+		que es un ocio creativo,
+		no es un ocio de tirarse panza arriba
+		a escuchar CD,
+		sino que es un ocio que le permite pensar.
+		La concepción que Descartes tiene del filósofo
+		es la de un hombre que necesita serenidad para pensar,
+		y que de esa serenidad van a salir sus obras.
+		El filósofo no transforma el mundo con la espada,
+		ni con las bombas, ni con la metralla,
+		lo transforma con el pensamiento
+		si pone su pensamiento al servicio de la transformación del mundo.
+		Ya vamos a ver que esta es la tesis 11 de Marx
+		y es la que, justamente,
+		propone algo revolucionario para la filosofía.
+		Es decir, no solo pensar en el mundo,
+		sino también transformarlo.
+		Descartes no se lo proponía,
+		solo quería que lo dejaran pensar tranquilo,
+		que le dieran el patrimonio de su ocio
+		y, sobre todo, no pedía ningún empleo
+		porque todos los empleos le quitan tiempo al filósofo.
+		Entonces, quería... quería...
+		quería usar su ocio para la libertad del pensamiento.
+		Esto nos lleva a revisar
+		la imagen del filósofo como un ser distraído,
+		que anda por las nubes-- No, todas esas son macanas.
+		Los filósofos son los seres más atentos a la realidad
+		que existen.
+		Además, los filósofos son aquellos pocos seres
+		que todavía tienen tiempo para pensar el mundo
+		porque hoy, por ejemplo,
+		ya nadie tiene tiempo para pensar el mundo,
+		apenas si tienen tiempo para cumplir sus tareas cotidianas,
+		levantarse, desayunar, trabajar,
+		comer y dormir.
+		El filósofo se hace tiempo, todavía, para pensar la realidad,
+		o sea que quizás el filósofo,
+		a quien se lo tiene como el tipo que está voleado
+		en medio de las ideas,
+		sea el personaje que todavía pueda pensar este mundo
+		y descubrir todo tipo de aristas:
+		sus aristas irritantes, sus aristas bellas,
+		sus aristas injustas,
+		sus aristas intolerables, sus aristas ignominiosas;
+		marco estas porque son la mayoría
+		de las que constituyen nuestro mundo.
+		Hannah Arendt había propuesto
+		una imagen del filósofo como el tipo distraído
+		para justificar a Martin Heidegger,
+		que había sido el maestro y el amante de su juventud,
+		y había dicho que Heidegger
+		había caído en el nacionalsocialismo
+		como Tales o Anaximandro
+		no recuerdo exactamente quién, pero creo que era Tales de Mileto
+		había caído en un pozo por mirar las estrellas.
+		Bueno, es una torpe justificación de lo que le pasó a Heidegger.
+		Heidegger se hizo nacionalsocialista con total conciencia y lucidez,
+		y los filósofos no andan mirando las estrellas
+		ni se caen en los pozos.
+		Cuando miran las estrellas,
+		lo hacen para tener una concepción del universo
+		y esa concepción del universo los lleva siempre, inexorablemente,
+		a tener una concepción de la vida
+		y a comprometerse con ella.
+		[Música de cierre]
+		Una vez afirmado, justificado y fundamentado el sujeto,
+		lo que hay que justificar es la existencia del objeto.
+		La realidad externa existía, nos molía a palos y era fascista.
+		Porque hay en la conciencia la idea de la perfección,
+		es que tiene que existir
+		un ser perfecto que la haya puesto ahí.
+		Los filósofos no andan mirando las estrellas
+		ni se caen en los pozos.
+		Cuando miran las estrellas,
+		lo hacen para tener una concepción del universo
+		y esa concepción del universo los lleva siempre, inexorablemente,
+		a tener una concepción de la vida.
+		El Inmortal "Borges"
+		Discurso del Método "Rene Descartes"
+		El Poder Pastoral "Michel Foucault"
+		Crítica de la razón dialéctica "Jean Paul Sartre"
+
+@04.La filosofia corta la cabeza de Luis XV
+  	04.1 ¿Qué es un filósofo idealista?
+		Habíamos visto que la filosofía no era la historia de lo que llamamos antes los héroes de la filosofía,
+		sino que la filosofía es la historia de los desarrollos históricos de los cuales los filósofos forman parte
+		y Descartes, concretamente, surge en la filosofía como aquel que expresa la subjetividad capitalista,
+		el sujeto capitalista, al hombre del capitalismo.
+		Para esto tiene que darse todo un proceso histórico en el cual el descubrimiento de América, Copérnico, Galileo, Giordano Bruno
+		cuestionan el orden de la teología medioeval.
+		Surge así el "ergo sum" cartesiano, el "pienso, luego existo", que es partir del sujeto como punto indubitable
+		del conocimiento de la realidad.
+		Este partir del sujeto 	como punto inicial para el conocimiento de la realidad es lo que llamamos las filosofías idealistas.
+		Las filosofías idealistas son aquellas que parten del yo para conocer la realidad.
+		Vimos todos los problemas que le causaban a Descartes para, justamente, demostrar la existencia de la realidad externa,
+		cómo Descartes se había preguntado si todo lo que existía y todo lo que veía ahí afuera
+		realmente era real, existía y había imaginado la posible existencia de un genio maligno que lo engañara.
+		Pero había dicho: "Ese genio maligno no puede existir porque Dios es absolutamente bueno y, si yo veo todas esas cosas ahí afuera,
+		debo confiar en la veracidad divina, Dios no habrá de engañarme".
+		Pero, para esto, tenía que demostrar seguimos repasando la existencia de Dios y, para demostrar la existencia de Dios,
+		entonces, Descartes dice: "Dios existe porque Dios es perfecto y la idea de la perfección está en mí.
+		Si la idea de la perfección está en mí, no la puedo haber puesto yo, que soy un ser imperfecto, la tiene que haber puesto un ser perfecto
+		y ese ser perfecto es Dios".
+
+		Nos acercamos, entonces...
+		Ahora vamos a pasar de Descartes a un pensador que se las trae.
+		Miren, yo voy a ser sincero con ustedes. Immanuel Kant no es un filósofo fácil.
+		Vivió toda su vida en la ciudad de Königsberg,
+		escribió "La crítica de la razón pura", que es su obra fundamental, junto con "La crítica de la razón práctica" y "La crítica del juicio".
+		La escribió en muy poco tiempo con un enorme descuido por el estilo y un enorme descuido por la claridad.
+		En realidad, las dos cosas van juntas:
+		donde hay una mala escritura, no puede haber una clara exposición. Una clara exposición de las ideas requiere una clara escritura también,
+		es decir, cuando uno entiende y quiere hacerse entender, tiene que saber cómo hacerse entender.
+		
+		En este sentido, el estudio de la filosofía, cuando se aplica a la docencia, tiene dos partes fundamentales:
+		una es que uno entienda y la otra es que uno sepa cómo transmitir ese conocimiento. Pero esto a Kant no le importó mucho,
+		ergo, la filosofía kantiana no tiene la transparencia de la filosofía cartesiana.
+		En general, la filosofía cartesiana se caracterizaba por ser clara y distinta, como Descartes lo decía.
+		Kant es un filósofo oscuro. Yo no voy a tratar la improbable misión de simplificarlo porque, justamente, les voy a contar una anécdota para aclarar esto.
+		
+		Parece que cierto día, Einstein, el físico, iba caminando por ahí, se le acerca un tipo
+		y lo encuentra. Le dice: "Hola, Einstein.
+		Ya que lo encuentro, quería preguntarle si me puede explicar la teoría de la relatividad".
+		Einstein, que ese día estaba de evidente buen humor y de buena disposición, le dice: "Sí, ¿cómo no?
+		Le voy a explicar la teoría de la relatividad".
+		El tipo le dice: "Pero, caramba, tampoco la entendí ahora.
+		¿Me la podría explicar de nuevo?".
+		Bueno, se la explica por cuarta vez, tampoco la entiende,
+		quinta vez, tampoco la entiende
+		y así se la sigue explicando, el tipo le dice: "No la entiendo",
+		hasta que al final llega un momento
+		en que el tipo le dice: "Sí, ahora la entendí",
+		pero Einstein lo mira y le dice:
+		"Sí, pero esto ya no es la teoría de la relatividad".
+		Entonces, yo puedo explicar o simplificar a Kant,
+		hasta cierto punto, y no lo voy a simplificar,
+		lo que voy a tratar de hacer es explicarlo claramente,
+		con la mayor claridad que me sea posible,
+		pero es un pensamiento difícil.
+		Sin embargo, lo vamos a	lo vamos a unir a lo que vimos de Descartes.
+		Dijimos que Descartes inaugura lo que llamábamos filosofías idealistas.
+		Dijimos que las filosofías idealistas son las que parten del sujeto en su tarea de conocimiento de la realidad.
+		Ustedes síganme bien
+		porque no quiero interrumpir este pensamiento en este momento. 	Las ideas en el idealismo el sujeto es aquel que constituye al objeto.
+  	04.2 ¿Qué es el iluminismo?
+		¿Qué pasa con Kant?
+		Kant es un filósofo que viene después de Descartes,
+		por supuesto,
+		pero ¿después en qué sentido?
+		En un sentido histórico fundamental.
+		Nosotros dijimos que Descartes,
+		cuando dice: "Pienso, luego existo",
+		le corta la cabeza a Luis XVI.
+		Habíamos dicho que trece siglos de Edad Media
+		no habían acelerado la historia en absoluto
+		porque el hombre esperaba que todo lo hiciera Dios
+		y no hacía nada, salvo esperar
+		el cumplimiento de la promesa divina y el Reino de los Cielos.
+		Pero con Descartes--
+		al poner Descartes la centralidad en la praxis del hombre,
+		la historia se acelera,
+		la burguesía toma la historia entre sus manos
+		y la burguesía llega en un muy corto período de tiempo
+		si tenemos en cuenta que en 1637
+		es "El discurso del método"
+		y en 1789, la Revolución francesa, pasa muy poco tiempo,
+		comparándolo con el tiempo del Medioevo,
+		para que se produzca el hecho fundamental
+		del asalto de la burguesía al poder.
+		En 1789, en efecto, con la toma de la Bastilla y la decapitación de Luis XVI,
+		la clase capitalista burguesa se adueña del poder. Esto va paralelo al avance del conocimiento en filosofía.
+		Si la burguesía se adueñó del poder, Kant tiene otra relación con la realidad externa.
+		La realidad externa no es, como para Descartes, algo que pertenecía todavía a la monarquía.
+		La realidad externa, en Kant, que es un filósofo del iluminismo después vamos a explicar qué es el iluminismo,
+		la realidad externa, en Kant, es ya algo que está por ser atrapado, dominado, tomado por la clase social hegemónica,
+		única del capitalismo, que es la burguesía.
+		Ergo, el objeto kantiano no va a ser ajeno al sujeto. Kant no va a recurrir a ninguna veracidad divina.
+		
+		El sujeto kantiano constituye al objeto, 
+		lo hace suyo, lo crea. 	Bueno, esto hay que decirlo porque, justamente, el iluminismo es una filosofía
+		que parte de la razón como la luz, por eso es el iluminismo, las luces de la razón.
+		Para un iluminista, la razón es aquel poder que es capaz de organizar toda la realidad.
+		Si nosotros nos remitimos a aquí, a nuestro país,
+		Mariano Moreno y Juan José Castelli eran iluministas y, al ser iluministas, ellos pensaban que, desde su racionalidad,
+		podían darle a la realidad un orden que no tenía. En este sentido, la razón iluminista es totalmente revolucionaria.
+		Incluso, vamos a hablar, en algún momento, de las vanguardias iluministas revolucionarias del siglo XX, pero estamos en este momento.
+		Pensemos en Moreno y pensemos en Castelli. ¿Moreno y Castelli qué dicen?
+		Bueno, este virreinato no es lo que nosotros queremos, es decir, esta realidad exterior organizada como un virreinato que depende de la metrópoli
+		no es lo que nuestra racionalidad quiere. Las luces de nuestra razón que guían nuestro accionar nos dicen que la realidad debe moldearse de otra manera,
+		debe moldearse de acuerdo con lo que nuestra razón determina.
+		Esto Moreno, que había traducido "El contrato social", de Rousseau, lo toma de los iluministas franceses.
+		Los iluministas franceses son, justamente, d'Alembert, Diderot, Rousseau... y Voltaire.
+		Escriben la enciclopedia y es ahí donde vemos que la razón iluminista comienza a hacerse una con las masas y con la burguesía revolucionaria.
+		¿La razón iluminista qué es lo que dice?
+		La sociedad tal como está organizada, hegemonizada por un rey que dice gobernar por derecho divino y que acumula a toda la monarquía en Versalles
+		es la realidad que pretenden imponernos, pero nuestra razón nos dice que esa realidad hay que ordenarla de nuevo. 
+		O sea, aquí esto tiene que ser claro, entendámoslo bien, la razón ordena la realidad. La realidad que yo veo, con un rey que dice gobernar por derecho divino-- Todos sabemos que nadie gobierna por derecho divino porque el hombre se adueñó de la historia y, como el hombre se adueñó de la historia,
+		que nadie me venga a decir que gobierna por derecho divino porque aquí los lazos con Dios los cortamos, los cortó Descartes en 1637.
+		Los revolucionarios franceses hacían la Revolución francesa en nombre de los derechos del hombre y los derechos del hombre no admitían ningún liderazgo
+		de reyes que dijeran gobernar por derecho divino. "Entonces, esa realidad dicen los iluministas, los racionalistas franceses, esa realidad que vemos ahí hay que cambiarla porque nuestra razón nos lo está diciendo. Esa realidad no se compadece, esa realidad no está de acuerdo con lo que nosotros pensamos".
+		
+		O sea, ¿qué es un iluminista?
+		Un iluminista es alguien que está tan seguro de lo que su razón le dice que necesita-- se siente validado para imponer su razón a los hechos
+		y modelar la realidad de acuerdo con lo que su razón le dice. Entonces, eso es el iluminismo, la diosa razón, como dicen los revolucionarios franceses.
+		La diosa razón es la que crea la realidad porque se subleva contra la realidad, o sea, la razón es revolucionaria, la razón no cree en la realidad.
+		Cuando la realidad no está de acuerdo con la razón, la razón revoluciona la realidad hasta que esa realidad se relacione con ella como un espejo,
+		le devuelva lo que ella cree que la realidad debe ser.
+		Esto tiene mucho que ver con la filosofía kantiana. Si ustedes entendieron esto, no les va a ser tan difícil entender a Kant, ya lo vamos a ver.
+  	04.3 ¿Cuál es el rol del intelectual revolucionario?
+		Al rol del intelectual revolucionario lo estamos viendo.
+		Los pensadores que impulsaron la Revolución francesa, los llamados "enciclopedistas",
+		eran intelectuales, filósofos revolucionarios, 	que vieron que el sentido de su época era que una nueva clase social,
+		o al menos una clase social distinta a la que tenía el poder político porque el poder económico ya estaba en manos de la burguesía--
+		Veían, estos intelectuales, que la clase burguesa capitalista debía tomar el poder político que todavía estaba en manos de la nobleza.
+		Entonces, estos intelectuales escriben un texto, que es la enciclopedia, donde las brillantes plumas de d'Alembert, Diderot, Voltaire, Rousseau
+		se unen para explicar lo que está pasando y, en tanto lo explican, lo aclaran, es decir, inciden en los revolucionarios porque los revolucionarios,
+		siempre que la realidad esté expuesta en ideas, no solo luchan, sino que saben por qué luchan. 
+		Aquí, en 1845, cuando los unitarios de Montevideo que luchaban contra Rosas leen "Facundo", de Sarmiento, dicen una frase notable:
+		"Ahora sabemos por qué luchamos", mientras que la frase que dice Rosas es, justamente, la contraria.
+		Dice: "Así es cómo se me ataca, ya verán que nadie me defiende de este modo".
+		
+		Entonces, el rol del intelectual es saber que participa de la historia, saber que la historia cambia, percibir esos cambios y hundirse en ellos como un elemento más, pero como el elemento de la comprensión, como el momento de la intelección del cambio porque todo proceso debe pensarse a sí mismo y se  piensa a sí mismo
+		en todos aquellos que participan de él, pero el intelectual revolucionario es el que tiene un protagonismo fundamental en esto
+		porque es quien está capacitado para pensarlo con más rigor.
+		Justamente su rigor es tal porque forma parte de la historia, de ese movimiento revolucionario. Por ejemplo,
+		Voltaire escribe un libro muy encantador, que es "Cándido" o "El optimismo".
+		Aquí, lo que hace Voltaire es poner un personaje al que llama doctor Pangloss.
+		Este doctor Pangloss-- En él, encarna una concepción del filósofo Leibniz acerca del mejor de los mundos posibles.
+		Leibniz había razonado muy simplemente del siguiente modo:
+		Dios se había puesto a elegir mundos.
+		De todos los mundos posibles, Dios eligió el mejor para nosotros, o sea, que este,
+		con todas las imperfecciones que tiene, es, de todos modos, el mejor de los mundos posibles que Dios eligió para nosotros.
+		Este es-- Esta es la filosofía panglosiana, del doctor Pangloss, que tiende, por supuesto, a la justificación total y absoluta de todo lo existente.
+		De aquí que se diga de aquellos que tienden a justificar las situaciones de hecho, 	aun cuando son atroces, que son panglosianos.
+		Ahora, con esto, Voltaire intentaba decir que se vivía en el peor de los mundos posibles y esto lo dice el personaje Cándido.
+		Cándido le dice a Pangloss: "Pero, sin embargo, el mal se ha enseñoreado de la Tierra, ¿cómo es esto que me dice usted, que vivimos en el mejor de los
+		mundos posibles?", y Pangloss siempre le da un ejemplo sobre que de tal cosa, que era horrible, había resultado otra, que no era tan mala
+		y que de esta había resultado otra horrible, pero había resultado otra que no era tan mala.
+		Daba toda una justificación de lo existente ante la cual Cándido quedaba desarmado, pero el lector de Voltaire se daba cuenta
+		de que Pangloss era un personaje muy miserable destinado a justificar lo injustificable. Hay cosas que no tienen justificación posible.
+	04.4 ¿Es este el mejor de los mundos posibles?
+		Marx dice que la filosofía tiene que estar al servicio de tornar explícita la ignominia.
+		Entonces, va a decir una frase notable, realmente notable:
+		"Hay que hacer la ignominia más ignominiosa pensándola, haciéndola conocer".
+		Una vez que toman conciencia de su ignominia, su ignominia se les vuelve más ignominiosa porque la conciencia de la ignominia hace intolerable la ignominia.
+		Es decir, yo puedo pasar mi vida entera hundido en una situación de indignidad. Si en algún momento no tomo conciencia de ella,
+		puedo seguir así eternamente. Ahora, en ese momento, en el momento exacto en que tomo conciencia de mi indignidad, 	ahí hay un quiebre, hay una ruptura,
+		ahí yo paso a ser otro, ahí me miro desde otro lugar y me digo a mí mismo: 
+		"Esto no puede ser".
+		Cuando digo: "Esto no puede ser", estoy revolucionando mi situación particular.
+		Entonces, esto es lo que, digamos, Marx está diciendo con que hay que hacer la ignominia más ignominiosa.
+		A la vez, lo que logra Voltaire con su "Cándido" que es una novela, es una breve novelita, "Cándido", que la lee mucha gente
+		es la irritabilidad de las masas. Convengamos que, si hay masas irritables,	son las masas de la Revolución francesa.
+		La Revolución francesa no es solo la toma de la Bastilla, también es el terror, es Robespierre, es Saint-Just, la guillotina,
+		tiene un proceso tremendamente complejo, pero el principio revolucionario de los ideólogos era irritar a las masas llevándolas al conocimiento
+		de la situación de indignidad en que vivían. En la medida que tomaban conciencia de esa situación de indignidad, la irritabilidad crecía 
+		y la rebelión estaba más cercana.
+		La rebelión es imposible cuando no existe la conciencia de la indignidad. 
+		Lo que hace imposible la conciencia de la indignidad es creer que vivimos en el mejor de los mundos posibles.
+		Como no vivimos en el mejor de los mundos posibles-- Algunos viven en el mejor de los mundos posibles.
+		Digamos que hay una relación de cierta incomodidad, para que algunos vivan en el mejor de los mundos posibles,
+		otros tienen que vivir en el peor de los mundos posibles.
+		Esta tremenda injusticia que subyace al sistema social casi único en estos momentos, esta situación tiene que llevarse a la conciencia
+		de aquel que padece la indignidad, es decir, entonces...
+		Yo diría que gran parte de la tarea de la filosofía es revelarle o conseguir que aquel que está sumergido en el oprobio durante su existencia 
+		tome, en algún mundo, conciencia de este oprobio. En la medida en que toma conciencia de este oprobio, la decisión de cambiarlo empieza ahí.
+		En la medida en que no la toma, va a seguir siendo siempre una mera cosa de un aparato que lo explota.
+		Pero también, todo eso tiende a que el individuo no se encuentre con su propia subjetividad, que no llegue a ese momento en el que diga:
+		"Pero ¿esta es la vida que yo quiero vivir? ¿Este soy yo? ¿Esto es lo que soñé para mí? ¿Esto es lo que yo soñé de joven? 
+		¿Hasta qué punto estoy traicionando absolutamente mi juventud? Porque yo pensé algo para mí cuando era joven.
+		Después lo fui pensando cada vez menos, después entregué esto, después entregué aquello y ahora estoy aquí, entregado. Entregado, idiotizado,
+		viendo estupideces todo el día. Obedeciendo órdenes durante el día, comiendo mal, viendo estupideces y durmiendo... mal también.
+		Esto tiene que cambiar".
+		Ese momento exacto es el de la conciencia crítica. La conciencia crítica es ese momento en el cual el individuo descubre su yo, su yo verdadero, íntimo,
+		el yo desde el cual él...él se permite cuestionar su propia vida y el mundo que lo rodea. Y esto es... esto es realmente muy alentador.
+		La filosofía debe ayudar en estas cosas, a que ocurran. Son muy valiosas.
+
+		Descartes dice: "Dios existe porque Dios es perfecto
+		y la idea de la perfección está en mí".
+		Para un iluminista, la razón es aquel poder
+		que es capaz de organizar toda la realidad.
+		Hay que hacer la ignominia más ignominiosa
+		pensándola, haciéndola conocer.
+
+
++Rene Descartes 1596 - 1650 Francia 
+  -Discurso del Método(1637) 
++Sigmond Freud
++Michel Foucault
+  -El Poder Pastoral
++Borges
+  -El Inmortal
++Jean Paul Sartre -> Intencionalidad de la conciencia = "Filosofia Fenomenólogica"
+  Crítica de la razón dialéctica 
